@@ -3,3 +3,4 @@ requests
 networkx
 plotly
 kaleido
+matplotlib
